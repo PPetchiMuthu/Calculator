@@ -2,7 +2,7 @@
 
 Simple Calculator 
 
-Basic Operation 
+Basic Operation like
 -> Addition
 -> Subtration
 -> Multiplication
